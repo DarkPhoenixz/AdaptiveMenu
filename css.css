@@ -1,0 +1,40 @@
+html, body {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    padding: 0;
+    margin: 0;
+}
+
+.menu_bar {
+    background-color: aqua;
+    display: flex;
+    width: 100%;
+    height: 50px;
+    justify-content: end;
+    align-items: center;
+}
+
+.options {
+    color: black;
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 5px;
+}
+
+/*#bar {
+    position: relative;
+    background-color: aqua;
+    height: 50px;
+}
+
+.menu_option{
+    margin-right: 10px;
+    align-items: center;
+    position: relative;
+    display: inline-block;
+    top: 15px;
+    left: 83%;
+    cursor: pointer;
+}*/
+ 
